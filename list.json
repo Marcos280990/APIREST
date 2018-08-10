@@ -1,0 +1,93 @@
+{
+	"listversions":[
+		{
+		    "año": 2018,
+		    "version": 1,
+		    "eps":[
+		    	{
+		    		"clave": "EI",
+		    		"nombre": "EPS I"
+		    	},
+		    	{
+		    		"clave": "EI",
+		    		"nombre": "EPS II"
+		    	}
+			]
+		},
+		{
+		    "año": 2018,
+		    "version": 2,
+		    "eps":[
+		    	{
+		    		"clave": "EI",
+		    		"nombre": "EPS I"
+		    	},
+		    	{
+		    		"clave": "EII",
+		    		"nombre": "EPS II"
+		    	},
+		    	{
+		    		"clave": "EIII",
+		    		"nombre": "EPS III"
+		    	},
+		    	{
+		    		"clave": "EIV",
+		    		"nombre": "EPS IV"
+		    	},
+		    	{
+		    		"clave": "EV",
+		    		"nombre": "EPS V"
+		    	},
+		    	{
+		    		"clave": "EVI",
+		    		"nombre": "EPS VI"
+		    	}
+			]
+		},
+		{
+		    "año": 2018,
+		    "version": 3,
+		    "eps":[
+		    	{
+		    		"clave": "EI",
+		    		"nombre": "EPS I"
+		    	},
+		    	{
+		    		"clave": "EIV",
+		    		"nombre": "EPS IV"
+		    	},
+		    	{
+		    		"clave": "EV",
+		    		"nombre": "EPS V"
+		    	},
+		    	{
+		    		"clave": "EVI",
+		    		"nombre": "EPS VI"
+		    	}
+			]
+		},
+		{
+		    "año": 2018,
+		    "version": 4,
+		    "eps":[
+		    	{
+		    		"clave": "EI",
+		    		"nombre": "EPS I"
+		    	},
+		    	{
+		    		"clave": "EIV",
+		    		"nombre": "EPS IV"
+		    	},
+		    	{
+		    		"clave": "EV",
+		    		"nombre": "EPS V"
+		    	},
+		    	{
+		    		"clave": "EVI",
+		    		"nombre": "EPS VI"
+		    	}
+			]
+		}
+
+	]
+}
