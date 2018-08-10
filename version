@@ -1,20 +1,1406 @@
-[{
-    "año": 2018,
-    "comentario": "No comentario",
-    "empresa_id": 0,
-    "estatus": "PUBLICADA",
-    "fechaguia": "2018-08-08T11:28:14.23-05:00",
-    "packcurvaguia_id": 1,
-    "subversion": 0,
-    "version": 1
+{
+"curvaguia": [
+{
+    "curvaGuiaID": 2,
+    "curvas": [
+        {
+            "central": "GC30",
+            "curvaID": 1,
+            "detalle": [
+                {
+                    "PConsumo": 1000,
+                    "capacidadUtil": 300,
+                    "curvaDetalleID": 6,
+                    "deseado": 80,
+                    "inicial": 1000,
+                    "inventario": 1100,
+                    "mes": "ENE",
+                    "recomendado": 85,
+                    "requerimiento": 800
+                },
+                {
+                    "PConsumo": 700,
+                    "capacidadUtil": 250,
+                    "curvaDetalleID": 8,
+                    "deseado": 65,
+                    "inicial": 900,
+                    "inventario": 800,
+                    "mes": "FEB",
+                    "recomendado": 70,
+                    "requerimiento": 600
+                },
+                {
+                    "PConsumo": 800,
+                    "capacidadUtil": 200,
+                    "curvaDetalleID": 9,
+                    "deseado": 85,
+                    "inicial": 950,
+                    "inventario": 900,
+                    "mes": "MAR",
+                    "recomendado": 90,
+                    "requerimiento": 700
+                },
+                {
+                    "PConsumo": 650,
+                    "capacidadUtil": 150,
+                    "curvaDetalleID": 10,
+                    "deseado": 70,
+                    "inicial": 850,
+                    "inventario": 700,
+                    "mes": "ABR",
+                    "recomendado": 75,
+                    "requerimiento": 600
+                },
+                {
+                    "PConsumo": 700,
+                    "capacidadUtil": 200,
+                    "curvaDetalleID": 11,
+                    "deseado": 55,
+                    "inicial": 800,
+                    "inventario": 800,
+                    "mes": "MAY",
+                    "recomendado": 60,
+                    "requerimiento": 700
+                },
+                {
+                    "PConsumo": 800,
+                    "capacidadUtil": 250,
+                    "curvaDetalleID": 12,
+                    "deseado": 75,
+                    "inicial": 900,
+                    "inventario": 900,
+                    "mes": "JUN",
+                    "recomendado": 80,
+                    "requerimiento": 700
+                },
+                {
+                    "PConsumo": 850,
+                    "capacidadUtil": 300,
+                    "curvaDetalleID": 13,
+                    "deseado": 90,
+                    "inicial": 1000,
+                    "inventario": 950,
+                    "mes": "JUL",
+                    "recomendado": 95,
+                    "requerimiento": 750
+                },
+                {
+                    "PConsumo": 800,
+                    "capacidadUtil": 250,
+                    "curvaDetalleID": 14,
+                    "deseado": 80,
+                    "inicial": 800,
+                    "inventario": 700,
+                    "mes": "AGO",
+                    "recomendado": 85,
+                    "requerimiento": 700
+                },
+                {
+                    "PConsumo": 750,
+                    "capacidadUtil": 200,
+                    "curvaDetalleID": 15,
+                    "deseado": 70,
+                    "inicial": 900,
+                    "inventario": 800,
+                    "mes": "SEP",
+                    "recomendado": 75,
+                    "requerimiento": 700
+                },
+                {
+                    "PConsumo": 800,
+                    "capacidadUtil": 150,
+                    "curvaDetalleID": 16,
+                    "deseado": 75,
+                    "inicial": 1100,
+                    "inventario": 900,
+                    "mes": "OCT",
+                    "recomendado": 80,
+                    "requerimiento": 700
+                },
+                {
+                    "PConsumo": 700,
+                    "capacidadUtil": 200,
+                    "curvaDetalleID": 17,
+                    "deseado": 85,
+                    "inicial": 950,
+                    "inventario": 800,
+                    "mes": "NOV",
+                    "recomendado": 90,
+                    "requerimiento": 700
+                },
+                {
+                    "PConsumo": 650,
+                    "capacidadUtil": 150,
+                    "curvaDetalleID": 18,
+                    "deseado": 65,
+                    "inicial": 800,
+                    "inventario": 750,
+                    "mes": "DIC",
+                    "recomendado": 70,
+                    "requerimiento": 600
+                }
+            ],
+            "nombre": "CT GRAL M ALVAREZ M-I"
+        }
+    ],
+    "fecha": "2018-01-01T00:00:00-06:00",
+    "periodo": "2018",
+    "version": 1,
+    "versionSSM": "1"
 },
 {
-    "año": 2018,
-    "comentario": "No comentario",
-    "empresa_id": 0,
-    "estatus": "PUBLICADA",
-    "fechaguia": "2018-08-08T11:28:14.23-05:00",
-    "packcurvaguia_id": 1,
-    "subversion": 0,
-    "version": 2
-}]
+    "curvaGuiaID": 132,
+    "curvas": [
+        {
+            "central": "GC30",
+            "curvaID": 2,
+            "detalle": [
+                {
+                    "PConsumo": 750,
+                    "capacidadUtil": 200,
+                    "curvaDetalleID": 19,
+                    "deseado": 65,
+                    "inicial": 1000,
+                    "inventario": 900,
+                    "mes": "ENE",
+                    "recomendado": 70,
+                    "requerimiento": 600
+                },
+                {
+                    "PConsumo": 600,
+                    "capacidadUtil": 230,
+                    "curvaDetalleID": 20,
+                    "deseado": 75,
+                    "inicial": 1000,
+                    "inventario": 950,
+                    "mes": "FEB",
+                    "recomendado": 80,
+                    "requerimiento": 600
+                },
+                {
+                    "PConsumo": 1000,
+                    "capacidadUtil": 800,
+                    "curvaDetalleID": 22,
+                    "deseado": 74,
+                    "inicial": 1100,
+                    "inventario": 1050,
+                    "mes": "MAR",
+                    "recomendado": 78,
+                    "requerimiento": 900
+                },
+                {
+                    "PConsumo": 800,
+                    "capacidadUtil": 700,
+                    "curvaDetalleID": 23,
+                    "deseado": 80,
+                    "inicial": 900,
+                    "inventario": 850,
+                    "mes": "ABR",
+                    "recomendado": 83,
+                    "requerimiento": 750
+                },
+                {
+                    "PConsumo": 750,
+                    "capacidadUtil": 500,
+                    "curvaDetalleID": 25,
+                    "deseado": 90,
+                    "inicial": 1000,
+                    "inventario": 800,
+                    "mes": "MAY",
+                    "recomendado": 91,
+                    "requerimiento": 730
+                },
+                {
+                    "PConsumo": 600,
+                    "capacidadUtil": 500,
+                    "curvaDetalleID": 26,
+                    "deseado": 64,
+                    "inicial": 700,
+                    "inventario": 650,
+                    "mes": "JUN",
+                    "recomendado": 65,
+                    "requerimiento": 580
+                },
+                {
+                    "PConsumo": 1200,
+                    "capacidadUtil": 1200,
+                    "curvaDetalleID": 27,
+                    "deseado": 68,
+                    "inicial": 1400,
+                    "inventario": 1350,
+                    "mes": "JUL",
+                    "recomendado": 70,
+                    "requerimiento": 1100
+                },
+                {
+                    "PConsumo": 950,
+                    "capacidadUtil": 850,
+                    "curvaDetalleID": 29,
+                    "deseado": 70,
+                    "inicial": 1100,
+                    "inventario": 1000,
+                    "mes": "AGO",
+                    "recomendado": 78,
+                    "requerimiento": 900
+                },
+                {
+                    "PConsumo": 800,
+                    "capacidadUtil": 700,
+                    "curvaDetalleID": 30,
+                    "deseado": 85,
+                    "inicial": 1000,
+                    "inventario": 900,
+                    "mes": "SEP",
+                    "recomendado": 87,
+                    "requerimiento": 720
+                },
+                {
+                    "PConsumo": 1200,
+                    "capacidadUtil": 1100,
+                    "curvaDetalleID": 31,
+                    "deseado": 90,
+                    "inicial": 1300,
+                    "inventario": 1300,
+                    "mes": "OCT",
+                    "recomendado": 96,
+                    "requerimiento": 1100
+                },
+                {
+                    "PConsumo": 900,
+                    "capacidadUtil": 800,
+                    "curvaDetalleID": 32,
+                    "deseado": 90,
+                    "inicial": 1000,
+                    "inventario": 950,
+                    "mes": "NOV",
+                    "recomendado": 91,
+                    "requerimiento": 850
+                },
+                {
+                    "PConsumo": 950,
+                    "capacidadUtil": 700,
+                    "curvaDetalleID": 33,
+                    "deseado": 72,
+                    "inicial": 1000,
+                    "inventario": 1000,
+                    "mes": "DIC",
+                    "recomendado": 74,
+                    "requerimiento": 900
+                }
+            ],
+            "nombre": "CT Zacatecas"
+        }
+    ],
+    "fecha": "2018-01-01T00:00:00-06:00",
+    "periodo": "2018",
+    "version": 1,
+    "versionSSM": "1"
+}
+
+],
+"versiones":[
+	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2006", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2007", "status": "Creada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2008", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2009", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2010", "status": "Creada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2010", "status": "Creada"},
+  	{"usuario": "G96A2", "numversion": 9, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2012", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2013", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2014", "status": "Liberada"},
+  	{"usuario": "G96A2", "numversion": 2, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2015", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2016", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 2, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2017", "status": "Liberada"},
+  	{"usuario": "G96A2", "numversion": 3, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2018", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 4, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2019", "status": "Rechazada"},
+  	{"usuario": "G96A2", "numversion": 5, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2006", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 6, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2006", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 7, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2008", "status": "Creada"},
+  	{"usuario": "G96A2", "numversion": 8, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2009", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2010", "status": "Creada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2007", "status": "Importada"},
+  	{"usuario": "G96A2", "numversion": 1, "fcreate": "01/01/2010", "fupdate": "10/10/2019", "anio": "2006", "status": "Importada"}
+
+],
+"eps":[
+  {
+  "name": "EPS I",
+  "id": 1
+},
+{
+  "name": "EPS II",
+  "id": 2
+},
+{
+  "name": "EPS III",
+  "id": 3
+},
+{
+  "name": "EPS IV",
+  "id": 4
+},
+{
+  "name": "EPS V",
+  "id": 5
+},
+{
+  "name": "EPS VI",
+  "id": 6
+}
+],
+"centrales":
+[
+    {
+        "clave": "GC30",
+        "descripcion": "C T GRAL M ÁLVAREZ MORENO M-I\r\n",
+        "id": 2,
+        "EPS":"EPS I"
+    },
+    {
+        "clave": "GT54",
+        "descripcion": "C T MANZANILLO II",
+        "id": 3,
+        "EPS":"EPS II"
+    },
+    {
+        "clave": "GB50",
+        "descripcion": "C T GRAL E CALLES (PETACALCO)",
+        "id": 4,
+        "EPS":"EPS I"
+    },
+    {
+        "clave": "GG02",
+        "descripcion": "C G LOS AZUFRES",
+        "id": 131,
+        "EPS":"EPS II"
+    },
+    {
+        "clave": "GT03",
+        "descripcion": "C T SN LUIS POTOSÍ (V D REYES)",
+        "id": 132,
+        "EPS":"EPS III"
+    },
+    {
+        "clave": "GT39",
+        "descripcion": "C T PUERTO LIBERTAD",
+        "id": 133,
+        "EPS":"EPS III"
+    },
+    {
+        "clave": "GT80",
+        "descripcion": "C T  C RODRÍGUEZ R",
+        "id": 134,
+        "EPS":"EPS VI"
+    },
+    {
+        "clave": "GT33",
+        "descripcion": "C T TOPOLOBAMPO",
+        "id": 135,
+        "EPS":"EPS IV"
+    },
+    {
+        "clave": "GT35",
+        "descripcion": "C T JOSÉ ACEVES P",
+        "id": 136,
+        "EPS":"EPS I"
+    },
+    {
+        "clave": "GR36",
+        "descripcion": "C T G CABORCA",
+        "id": 137,
+        "EPS":"EPS I"
+    },
+    {
+        "clave": "GR39",
+        "descripcion": "C T G CULIACÁN",
+        "id": 138,
+        "EPS":"EPS I"
+    },
+    {
+        "clave": "GT34",
+        "descripcion": "C T PRESIDENTE JUÁREZ",
+        "id": 139,
+        "EPS":"EPS II"
+    },
+    {
+        "clave": "GT52",
+        "descripcion": "C T PUNTA PRIETA",
+        "id": 140,
+        "EPS":"EPS III"
+    },
+    {
+        "clave": "GR38",
+        "descripcion": "C T G CONSTITUCIÓN",
+        "id": 141,
+        "EPS":"EPS IV"
+    },
+    {
+        "clave": "GR35",
+        "descripcion": "C T G MEXICALI",
+        "id": 142,
+        "EPS":"EPS VI"
+    },
+    {
+        "clave": "GR37",
+        "descripcion": "C T G CIPRÉS",
+        "id": 143,
+        "EPS":"EPS II"
+    },
+    {
+        "clave": "GD32",
+        "descripcion": "C D E SANTA ROSALÍA",
+        "id": 144
+    },
+    {
+        "clave": "GD16",
+        "descripcion": "C D E GRAL A OLACHEA",
+        "id": 145
+    },
+    {
+        "clave": "GR40",
+        "descripcion": "C T G LOS CABOS",
+        "id": 146
+    },
+    {
+        "clave": "GR61",
+        "descripcion": "C T G TIJUANA",
+        "id": 147
+    },
+    {
+        "clave": "GC87",
+        "descripcion": "C T G HILLO",
+        "id": 148
+    },
+    {
+        "clave": "GR60",
+        "descripcion": "C T G LA PAZ",
+        "id": 149
+    },
+    {
+        "clave": "GC28",
+        "descripcion": "CCC PRESIDENTE JUÁREZ",
+        "id": 150
+    },
+    {
+        "clave": "GD79",
+        "descripcion": "CDE GUERRERO NEGRO II",
+        "id": 151
+    },
+    {
+        "clave": "GD01",
+        "descripcion": "CCI BAJA CALIFORNIA SUR",
+        "id": 152
+    },
+    {
+        "clave": "GT36",
+        "descripcion": "C T FRANCISCO VILLA",
+        "id": 153
+    },
+    {
+        "clave": "GT53",
+        "descripcion": "C T SAMALAYUCA BENITO JUÁREZ",
+        "id": 154
+    },
+    {
+        "clave": "GC40",
+        "descripcion": "C T SAMALAYUCA II",
+        "id": 155
+    },
+    {
+        "clave": "GB83",
+        "descripcion": "C T  J LÓPEZ PORTILLO RÍO ESC",
+        "id": 156
+    },
+    {
+        "clave": "GB01",
+        "descripcion": "C T CARBÓN II",
+        "id": 157
+    },
+    {
+        "clave": "GT38",
+        "descripcion": "C T EMILIO PORTES GIL",
+        "id": 158
+    },
+    {
+        "clave": "GR57",
+        "descripcion": "C T G MONCLOVA",
+        "id": 159
+    },
+    {
+        "clave": "GR88",
+        "descripcion": "C T G HUINALÁ",
+        "id": 160
+    },
+    {
+        "clave": "GC29",
+        "descripcion": "C C C RÍO BRAVO",
+        "id": 161
+    },
+    {
+        "clave": "GC86",
+        "descripcion": "C C C MONTERREY II",
+        "id": 162
+    },
+    {
+        "clave": "GC16",
+        "descripcion": "C C C CHIHUAHUA",
+        "id": 163
+    },
+    {
+        "clave": "GT02",
+        "descripcion": "C T FCO PÉREZ RÍOS (TULA)",
+        "id": 164
+    },
+    {
+        "clave": "GT01",
+        "descripcion": "C T  Salamanca",
+        "id": 165
+    },
+    {
+        "clave": "GC13",
+        "descripcion": "CCC Valle de México",
+        "id": 166
+    },
+    {
+        "clave": "GC14",
+        "descripcion": "CC Tula",
+        "id": 167
+    },
+    {
+        "clave": "GC01",
+        "descripcion": "C C C  El Sáuz",
+        "id": 168
+    },
+    {
+        "clave": "GC02",
+        "descripcion": "CCC Centro I",
+        "id": 169
+    },
+    {
+        "clave": "GW81",
+        "descripcion": "Cogeneración Salamanca",
+        "id": 170
+    },
+    {
+        "clave": "GC15",
+        "descripcion": "CCC San Lorenzo Potencia",
+        "id": 171
+    },
+    {
+        "clave": "GR01",
+        "descripcion": "CTG Nonoalco",
+        "id": 172
+    },
+    {
+        "clave": "GR07",
+        "descripcion": "CTG Coyotepec",
+        "id": 173
+    },
+    {
+        "clave": "GR05",
+        "descripcion": "CTG Ecatepec",
+        "id": 174
+    },
+    {
+        "clave": "GR10",
+        "descripcion": "CTG Iztapalapa",
+        "id": 175
+    },
+    {
+        "clave": "GR12",
+        "descripcion": "CTG Magdalena",
+        "id": 176
+    },
+    {
+        "clave": "GR13",
+        "descripcion": "CTG Santa Cruz",
+        "id": 177
+    },
+    {
+        "clave": "GR11",
+        "descripcion": "CTG Coapa",
+        "id": 178
+    },
+    {
+        "clave": "GR02",
+        "descripcion": "CTG Atenco",
+        "id": 179
+    },
+    {
+        "clave": "GR14",
+        "descripcion": "CTG Aragón",
+        "id": 180
+    },
+    {
+        "clave": "GR08",
+        "descripcion": "CTG Cuautitlán",
+        "id": 181
+    },
+    {
+        "clave": "GR09",
+        "descripcion": "CTG Vallejo",
+        "id": 182
+    },
+    {
+        "clave": "GR06",
+        "descripcion": "CTG Villa de las Flores",
+        "id": 183
+    },
+    {
+        "clave": "GR03",
+        "descripcion": "CTG Remedios",
+        "id": 184
+    },
+    {
+        "clave": "GR04",
+        "descripcion": "CTG Victoria",
+        "id": 185
+    },
+    {
+        "clave": "GT17",
+        "descripcion": "CT Altamira",
+        "id": 186
+    },
+    {
+        "clave": "GT83",
+        "descripcion": "CT Pdte. Adolfo López Mateos",
+        "id": 187
+    },
+    {
+        "clave": "GC12",
+        "descripcion": " CCC Poza Rica",
+        "id": 188
+    },
+    {
+        "clave": "GC83",
+        "descripcion": "CCC Dos Bocas",
+        "id": 189
+    },
+    {
+        "clave": "GT82",
+        "descripcion": "CT Mérida II",
+        "id": 190
+    },
+    {
+        "clave": "GT81",
+        "descripcion": "CT Lerma",
+        "id": 191
+    },
+    {
+        "clave": "GR81",
+        "descripcion": "CTG Cancún",
+        "id": 192
+    },
+    {
+        "clave": "GR85",
+        "descripcion": "CTG Nachicocom",
+        "id": 193
+    },
+    {
+        "clave": "GR82",
+        "descripcion": "CTG Mérida II",
+        "id": 194
+    },
+    {
+        "clave": "GR83",
+        "descripcion": "CTG Xul-Há",
+        "id": 195
+    },
+    {
+        "clave": "GR84",
+        "descripcion": "CTG Ciudad del Carmen",
+        "id": 196
+    },
+    {
+        "clave": "GD78",
+        "descripcion": "CCI Hol-Box",
+        "id": 197
+    },
+    {
+        "clave": "GT84",
+        "descripcion": "CT Felipe Carrillo Puerto",
+        "id": 198
+    },
+    {
+        "clave": "GC85",
+        "descripcion": "CCC Felipe Carrillo Puerto",
+        "id": 199
+    },
+    {
+        "clave": "GR86",
+        "descripcion": " CTG Nizuc",
+        "id": 200
+    },
+    {
+        "clave": "GR87",
+        "descripcion": "CTG Chankanaab",
+        "id": 201
+    }
+],
+"catalagos": [
+  { "catalogoID": 32,
+    "clave": "---",
+    "descripcion": "Catalogo",
+    "options": [
+        {
+            "catalogoID": 1,
+            "clave": "tipoGeneracionID",
+            "descripcion": "Tipo generación",
+            "options": [
+                {
+                    "catalogoID": 7,
+                    "clave": "CCC",
+                    "descripcion": "Ciclo combinado",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 8,
+                    "clave": "CCI",
+                    "descripcion": "Combustión interna",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 9,
+                    "clave": "CTG",
+                    "descripcion": "Turbogas",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 10,
+                    "clave": "CAR",
+                    "descripcion": "Carboeléctrica",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 11,
+                    "clave": "HIDRO",
+                    "descripcion": "Hidroeléctrico",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 12,
+                    "clave": "GEO",
+                    "descripcion": "Geotérmoléctrico",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 13,
+                    "clave": "VAP",
+                    "descripcion": "Vapor",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 14,
+                    "clave": "VAM",
+                    "descripcion": "Vapor mayor",
+                    "options": [],
+                    "status": "A"
+                }
+            ],
+            "status": "A"
+        },
+        {
+            "catalogoID": 2,
+            "clave": "tipoProcesoID",
+            "descripcion": "Tipo proceso",
+            "options": [
+                {
+                    "catalogoID": 15,
+                    "clave": "TERMO",
+                    "descripcion": "Termoeléctrico",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 18,
+                    "clave": "HIDR",
+                    "descripcion": "Hidroeléctrico",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 19,
+                    "clave": "GEOTE",
+                    "descripcion": "Geotérmico",
+                    "options": [],
+                    "status": "A"
+                }
+            ],
+            "status": "A"
+        },
+        {
+            "catalogoID": 3,
+            "clave": "tipoCentralID",
+            "descripcion": "Tipo Central",
+            "options": [
+                {
+                    "catalogoID": 20,
+                    "clave": "CFE",
+                    "descripcion": "CFE",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 21,
+                    "clave": "PE",
+                    "descripcion": "Productor externo",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 22,
+                    "clave": "UM",
+                    "descripcion": "Unidad móvil",
+                    "options": [],
+                    "status": "A"
+                }
+            ],
+            "status": "A"
+        },
+        {
+            "catalogoID": 4,
+            "clave": "unidadMedidaID",
+            "descripcion": "Unidad Medida",
+            "options": [
+                {
+                    "catalogoID": 23,
+                    "clave": "M3",
+                    "descripcion": "Metro cúbico",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 24,
+                    "clave": "TON",
+                    "descripcion": "Tonelada",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 28,
+                    "clave": "KG",
+                    "descripcion": "Kilogramo",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 29,
+                    "clave": "LT",
+                    "descripcion": "Litro",
+                    "options": [],
+                    "status": "A"
+                }
+            ],
+            "status": "A"
+        },
+        {
+            "catalogoID": 5,
+            "clave": "claveCenaceID",
+            "descripcion": "Clave CENACE",
+            "options": [
+                {
+                    "catalogoID": 30,
+                    "clave": "CTC",
+                    "descripcion": "CT Manuel Alvarez M",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 31,
+                    "clave": "MAM",
+                    "descripcion": "CT Manzanillo II",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 37,
+                    "clave": "AZU\r\n",
+                    "descripcion": "C G LOS AZUFRES\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 38,
+                    "clave": "BCU\r\n",
+                    "descripcion": "CCI BAJA CALIFORNIA SUR\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 40,
+                    "clave": "CBD\r\n",
+                    "descripcion": "C T CARBÓN II\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 41,
+                    "clave": "CCT\r\n",
+                    "descripcion": "C T G CULIACÁN\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 42,
+                    "clave": "CIP\r\n",
+                    "descripcion": "C T G CIPRÉS\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 43,
+                    "clave": "ENO\r\n",
+                    "descripcion": "C C C CHIHUAHUA\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 44,
+                    "clave": "FVL\r\n",
+                    "descripcion": "C T FRANCISCO VILLA\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 45,
+                    "clave": "GAO\r\n",
+                    "descripcion": "C D E GRAL A OLACHEA\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 46,
+                    "clave": "GND\r\n",
+                    "descripcion": "CDE GUERRERO NEGRO II\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 47,
+                    "clave": "GPP\r\n",
+                    "descripcion": "C C C GÓMEZ PALACIO\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 48,
+                    "clave": "HLI\r\n",
+                    "descripcion": "C T G HILLO\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 49,
+                    "clave": "HUI\r\n",
+                    "descripcion": "C C C HUINALÁ\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 50,
+                    "clave": "HUIU6\r\n",
+                    "descripcion": "C T G HUINALÁ\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 51,
+                    "clave": "HUO\r\n",
+                    "descripcion": "C C C MONTERREY II\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 52,
+                    "clave": "ICA\r\n",
+                    "descripcion": "C T G CABORCA\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 53,
+                    "clave": "INF\r\n",
+                    "descripcion": "C H INFIERNILLO\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 54,
+                    "clave": "LED\r\n",
+                    "descripcion": "C T GUADALUPE VICTORIA -LERDO\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 55,
+                    "clave": "MON\r\n",
+                    "descripcion": "C T G MONCLOVA\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 56,
+                    "clave": "MXI\r\n",
+                    "descripcion": "C T G MEXICALI\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 57,
+                    "clave": "MZD\r\n",
+                    "descripcion": "C T JOSÉ ACEVES P\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 58,
+                    "clave": "PEO\r\n",
+                    "descripcion": "C T GRAL E CALLES (PETACALCO)\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 59,
+                    "clave": "PGD\r\n",
+                    "descripcion": "C T  C RODRÍGUEZ R\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 60,
+                    "clave": "PJZ\r\n",
+                    "descripcion": "C T PRESIDENTE JUÁREZ\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 61,
+                    "clave": "PLD\r\n",
+                    "descripcion": "C T PUERTO LIBERTAD\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 62,
+                    "clave": "PUD\r\n",
+                    "descripcion": "C T PUNTA PRIETA\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 63,
+                    "clave": "PUI\r\n",
+                    "descripcion": "C T G LA PAZ\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 64,
+                    "clave": "REC\r\n",
+                    "descripcion": "C T  J LÓPEZ PORTILLO RÍO ESC\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 65,
+                    "clave": "RIB\r\n",
+                    "descripcion": "C T EMILIO PORTES GIL\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 66,
+                    "clave": "RIBU4\r\n",
+                    "descripcion": "C C C RÍO BRAVO\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 67,
+                    "clave": "RSC\r\n",
+                    "descripcion": "CCC PRESIDENTE JUÁREZ\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 68,
+                    "clave": "SYC\r\n",
+                    "descripcion": "C T SAMALAYUCA BENITO JUÁREZ\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 69,
+                    "clave": "SYD\r\n",
+                    "descripcion": "C T SAMALAYUCA II\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 70,
+                    "clave": "TCB\r\n",
+                    "descripcion": "C T G LOS CABOS\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 71,
+                    "clave": "TIJ\r\n",
+                    "descripcion": "C T G TIJUANA\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 72,
+                    "clave": "TPO\r\n",
+                    "descripcion": "C T TOPOLOBAMPO\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 73,
+                    "clave": "VDR\r\n",
+                    "descripcion": "C T SN LUIS POTOSÍ (V D REYES)\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 74,
+                    "clave": "VIO\r\n",
+                    "descripcion": "C T G CONSTITUCIÓN\r\n",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 75,
+                    "clave": "XSR\r\n",
+                    "descripcion": "C D E SANTA ROSALÍA\r\n",
+                    "options": [],
+                    "status": "A"
+                }
+            ],
+            "status": "A"
+        },
+        {
+            "catalogoID": 6,
+            "clave": "paramID",
+            "descripcion": "Parámetro",
+            "options": [
+                {
+                    "catalogoID": 33,
+                    "clave": "PARAM1",
+                    "descripcion": "{type:\"date\", label:\"Parametro 1\"}",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 34,
+                    "clave": "PARAM2",
+                    "descripcion": "{type:\"string\", label:\"Texto\"}",
+                    "options": [],
+                    "status": "A"
+                },
+                {
+                    "catalogoID": 35,
+                    "clave": "PARAM3",
+                    "descripcion": "{type:'date', label:'Parametro 3'}",
+                    "options": [],
+                    "status": "A"
+                }
+            ],
+            "status": "A"
+        }
+    ],
+    "status": "L"
+    }
+],
+"usuarios": [
+    {
+        "RPE" : "G96A3",
+        "ROL" : "Operador MEM EPS",
+        "id":"3"
+    },
+    {
+        "RPE" : "G96A2",
+        "ROL" : "Operador MEM SNnR",
+        "id": "1"
+    },
+    {
+        "RPE" : "G96A1",
+        "ROL" : "Operador Energeticos",
+        "id":"2"
+    },
+    {
+        "RPE" : "G96A4",
+        "ROL" : "Administrador",
+        "id": "4"
+    }
+],
+"central":[
+    {
+      "centralgeneradora_id": 1, "centralgeneradora_cod": "CCOD01", "centralgeneradora": "Central Codigo01",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 01", "colonia": "Colonia 01",
+      "codigopostal": 23456, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 2, "centralgeneradora_cod": "CCOD02", "centralgeneradora": "Central Codigo02",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 02", "colonia": "Colonia 02",
+      "codigopostal": 23232, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 3, "centralgeneradora_cod": "CCOD03", "centralgeneradora": "Central Codigo03",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 03", "colonia": "Colonia 03",
+      "codigopostal": 88888, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 4, "centralgeneradora_cod": "CCOD04", "centralgeneradora": "Central Codigo04",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 04", "colonia": "Colonia 04",
+      "codigopostal": 12345, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 5, "centralgeneradora_cod": "CCOD05", "centralgeneradora": "Central Codigo05",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 05", "colonia": "Colonia 05",
+      "codigopostal": 98765, "estado_id": 1, "municipio_id": 1, "estatus": "Alta"
+    },
+    {
+      "centralgeneradora_id": 6, "centralgeneradora_cod": "CCOD01", "centralgeneradora": "Central Codigo01",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 01", "colonia": "Colonia 01",
+      "codigopostal": 23456, "estado_id": 1, "municipio_id": 1, "estatus": "Baja"
+    },
+    {
+      "centralgeneradora_id": 7, "centralgeneradora_cod": "CCOD02", "centralgeneradora": "Central Codigo02",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 02", "colonia": "Colonia 02",
+      "codigopostal": 23232, "estado_id": 1, "municipio_id": 1, "estatus": "Editado"
+    },
+    {
+      "centralgeneradora_id": 8, "centralgeneradora_cod": "CCOD03", "centralgeneradora": "Central Codigo03",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 03", "colonia": "Colonia 03",
+      "codigopostal": 88888, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 9, "centralgeneradora_cod": "CCOD04", "centralgeneradora": "Central Codigo04",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 04", "colonia": "Colonia 04",
+      "codigopostal": 12345, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 10, "centralgeneradora_cod": "CCOD05", "centralgeneradora": "Central Codigo05",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 05", "colonia": "Colonia 05",
+      "codigopostal": 98765, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },{
+      "centralgeneradora_id": 11, "centralgeneradora_cod": "CCOD01", "centralgeneradora": "Central Codigo01",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 01", "colonia": "Colonia 01",
+      "codigopostal": 23456, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 12, "centralgeneradora_cod": "CCOD02", "centralgeneradora": "Central Codigo02",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 02", "colonia": "Colonia 02",
+      "codigopostal": 23232, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 13, "centralgeneradora_cod": "CCOD03", "centralgeneradora": "Central Codigo03",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 03", "colonia": "Colonia 03",
+      "codigopostal": 88888, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 14, "centralgeneradora_cod": "CCOD04", "centralgeneradora": "Central Codigo04",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 04", "colonia": "Colonia 04",
+      "codigopostal": 12345, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    },
+    {
+      "centralgeneradora_id": 15, "centralgeneradora_cod": "CCOD05", "centralgeneradora": "Central Codigo05",
+      "empresa_id": 1, "tipoproceso_id": 10, "ceco": "0202AB", "domicilio": "Centro 05", "colonia": "Colonia 05",
+      "codigopostal": 98765, "estado_id": 1, "municipio_id": 1, "estatus": "A"
+    }
+
+],
+"unidad": [
+    {
+      "unidadgeneradora_id": 1, "unidadgeneradora_cod": "CODU01", "unidadgeneradora": "Unidad Cod 01",
+      "centralgeneradora_id": 1, "clavecenace": "CENU01", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 2, "unidadgeneradora_cod": "CODU02", "unidadgeneradora": "Unidad Cod 02",
+      "centralgeneradora_id": 1, "clavecenace": "CENU02", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 3, "unidadgeneradora_cod": "CODU03", "unidadgeneradora": "Unidad Cod 03",
+      "centralgeneradora_id": 1, "clavecenace": "CENU03", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 4, "unidadgeneradora_cod": "CODU04", "unidadgeneradora": "Unidad Cod 04",
+      "centralgeneradora_id": 2, "clavecenace": "CENU04", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+     {
+      "unidadgeneradora_id": 1, "unidadgeneradora_cod": "CODU01", "unidadgeneradora": "Unidad Cod 01",
+      "centralgeneradora_id": 2, "clavecenace": "CENU01", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 2, "unidadgeneradora_cod": "CODU02", "unidadgeneradora": "Unidad Cod 02",
+      "centralgeneradora_id": 3, "clavecenace": "CENU02", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 3, "unidadgeneradora_cod": "CODU03", "unidadgeneradora": "Unidad Cod 03",
+      "centralgeneradora_id": 3, "clavecenace": "CENU03", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 4, "unidadgeneradora_cod": "CODU04", "unidadgeneradora": "Unidad Cod 04",
+      "centralgeneradora_id": 4, "clavecenace": "CENU04", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+     {
+      "unidadgeneradora_id": 1, "unidadgeneradora_cod": "CODU01", "unidadgeneradora": "Unidad Cod 01",
+      "centralgeneradora_id": 4, "clavecenace": "CENU01", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 2, "unidadgeneradora_cod": "CODU02", "unidadgeneradora": "Unidad Cod 02",
+      "centralgeneradora_id": 5, "clavecenace": "CENU02", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 3, "unidadgeneradora_cod": "CODU03", "unidadgeneradora": "Unidad Cod 03",
+      "centralgeneradora_id": 5, "clavecenace": "CENU03", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 4, "unidadgeneradora_cod": "CODU04", "unidadgeneradora": "Unidad Cod 04",
+      "centralgeneradora_id": 1, "clavecenace": "CENU04", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+     {
+      "unidadgeneradora_id": 1, "unidadgeneradora_cod": "CODU01", "unidadgeneradora": "Unidad Cod 01",
+      "centralgeneradora_id": 1, "clavecenace": "CENU01", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 2, "unidadgeneradora_cod": "CODU02", "unidadgeneradora": "Unidad Cod 02",
+      "centralgeneradora_id": 1, "clavecenace": "CENU02", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 3, "unidadgeneradora_cod": "CODU03", "unidadgeneradora": "Unidad Cod 03",
+      "centralgeneradora_id": 5, "clavecenace": "CENU03", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    },
+    {
+      "unidadgeneradora_id": 4, "unidadgeneradora_cod": "CODU04", "unidadgeneradora": "Unidad Cod 04",
+      "centralgeneradora_id": 1, "clavecenace": "CENU04", "ceco": "0202AC", "capacidadplaca": 1234.12,
+      "capacidadefectiva": 987.90, "eficienciatermica": 5656.2, "tipogeneracion_id": 1, "estatus": "A"
+    }
+  ]
+
+}
