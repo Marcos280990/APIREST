@@ -90,7 +90,7 @@
 		},
 		{
 		    "anio": 2017,
-		    "version": 1,
+		    "version": 5,
 		    "eps":[
 		    	{
 		    		"clave": "EVI",
@@ -104,7 +104,7 @@
 		},
 		{
 		    "anio": 2017,
-		    "version": 2,
+		    "version": 6,
 		    "eps":[
 		    	{
 		    		"clave": "EI",
@@ -134,7 +134,7 @@
 		},
 		{
 		    "anio": 2017,
-		    "version": 3,
+		    "version": 7,
 		    "eps":[
 		    	{
 		    		"clave": "EVI",
@@ -155,7 +155,7 @@
             "packcurvaguia_id": 1,
             "subversion": 0,
             "usuario": "G96AA",
-            "version": 1
+            "version": 7
         },
         {
             "anio": 2017,
@@ -167,7 +167,7 @@
             "packcurvaguia_id": 1,
             "subversion": 0,
             "usuario": "G96AS",
-            "version": 2
+            "version": 6
         },
         {
             "anio": 2017,
@@ -179,7 +179,7 @@
             "packcurvaguia_id": 1,
             "subversion": 0,
             "usuario": "G96AA",
-            "version": 3
+            "version": 5
         },
         {
             "anio": 2018,
