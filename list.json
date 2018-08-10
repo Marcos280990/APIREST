@@ -282,7 +282,7 @@
 		{
 			"anio": 2017,
 			"centralgeneradora_id": 1,
-			"curvaguia_id": 1,
+			"curvaguia_id": 11,
 			"curvaguiadetalle_list": [{
 				"conceptoguia": "Porcentaje Recomendado Curva Guía",
 				"conceptoguia_id": 1,
