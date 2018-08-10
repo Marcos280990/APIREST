@@ -87,7 +87,381 @@
 		    		"nombre": "EPS VI"
 		    	}
 			]
+		},
+		{
+		    "año": 2017,
+		    "version": 1,
+		    "eps":[
+		    	{
+		    		"clave": "EVI",
+		    		"nombre": "EPS VI"
+		    	},
+		    	{
+		    		"clave": "EIV",
+		    		"nombre": "EPS IV"
+		    	}
+			]
+		},
+		{
+		    "año": 2017,
+		    "version": 2,
+		    "eps":[
+		    	{
+		    		"clave": "EI",
+		    		"nombre": "EPS I"
+		    	},
+		    	{
+		    		"clave": "EII",
+		    		"nombre": "EPS II"
+		    	},
+		    	{
+		    		"clave": "EIII",
+		    		"nombre": "EPS III"
+		    	},
+		    	{
+		    		"clave": "EIV",
+		    		"nombre": "EPS IV"
+		    	},
+		    	{
+		    		"clave": "EV",
+		    		"nombre": "EPS V"
+		    	},
+		    	{
+		    		"clave": "EVI",
+		    		"nombre": "EPS VI"
+		    	}
+			]
+		},
+		{
+		    "año": 2017,
+		    "version": 3,
+		    "eps":[
+		    	{
+		    		"clave": "EVI",
+		    		"nombre": "EPS VI"
+		    	}
+			]
 		}
 
+	],
+	"versionamiento":[
+        {
+            "año": 2017,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "CREADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 1,
+            "subversion": 0,
+            "usuario": "G96AA",
+            "version": 1
+        },
+        {
+            "año": 2017,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "CREADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 1,
+            "subversion": 0,
+            "usuario": "G96AS",
+            "version": 2
+        },
+        {
+            "año": 2017,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "LIBERADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 1,
+            "subversion": 0,
+            "usuario": "G96AA",
+            "version": 3
+        },
+        {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "CREADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 1,
+            "subversion": 0,
+            "usuario": "G96AS",
+            "version": 1
+        },
+        {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "CREADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 2,
+            "subversion": 0,
+            "usuario": "G96AA",
+            "version": 2
+        },
+        {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "LIBERADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 3,
+            "subversion": 0,
+            "usuario": "G90AW",
+            "version": 3
+        },
+          {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "PUBLICADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 4,
+            "subversion": 0,
+            "usuario": "G91ED",
+            "version": 4
+        },
+        {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "PUBLICADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 5,
+            "subversion": 0,
+            "usuario": "G96BB",
+            "version": 5
+        },
+        {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "RECHAZADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 6,
+            "subversion": 0,
+            "usuario": "G96AA",
+            "version": 6
+        },
+        {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "CREADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 7,
+            "subversion": 0,
+            "usuario": "G96AS",
+            "version": 7
+        },
+          {
+            "año": 2018,
+            "comentario": "No comentario",
+            "empresa_id": 0,
+            "estatus": "LIBERADA",
+            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+            "packcurvaguia_id": 8,
+            "subversion": 0,
+            "usuario": "G96AS",
+            "version": 8
+		  }
+	],
+	"curvaguia": [ 
+		{
+			"año": 2017,
+			"centralgeneradora_id": 1,
+			"curvaguia_id": 1,
+			"curvaguiadetalle_list": [{
+				"conceptoguia": "Porcentaje Recomendado Curva Guía",
+				"conceptoguia_id": 1,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 11,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario deseado (%)",
+				"conceptoguia_id": 2,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 12,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario 2018 (m3)",
+				"conceptoguia_id": 3,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 13,
+				"valores": [16873.0, 19242.0, 21113.0, 23786.0, 25389.0, 25924.0, 24588.0, 22984.0, 20846.0, 18975.0, 17101.0, 16303.0]
+			  }, {
+				"conceptoguia": "Pronóstico de Consumo 2018  (m3)",
+				"conceptoguia_id": 4,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 14,
+				"valores": [14839.0, 16977.0, 18747.0, 17845.0, 22515.0, 23458.0, 27242.0, 27489.0, 23059.0, 21780.0, 19074.0, 21174.0]
+			  }, {
+				"conceptoguia": "Requerimiento 2018 (m3)",
+				"conceptoguia_id": 5,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 15,
+				"valores": [17104.0, 19282.0, 20617.0, 20517.0, 24119.0, 23992.0, 25906.0, 25885.0, 20921.0, 19909.0, 17204.0, 20372.0]
+			  }],
+			"empresa_id": "EI",
+			"fechaimportacion": "2018-08-08T11:59:36.09-05:00",
+			"packcurvaguia_id": 1
+		  },
+		  {
+			"año": 2018,
+			"centralgeneradora_id": 1,
+			"curvaguia_id": 1,
+			"curvaguiadetalle_list": [{
+				"conceptoguia": "Porcentaje Recomendado Curva Guía",
+				"conceptoguia_id": 1,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 11,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario deseado (%)",
+				"conceptoguia_id": 2,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 12,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario 2018 (m3)",
+				"conceptoguia_id": 3,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 13,
+				"valores": [16873.0, 19242.0, 21113.0, 23786.0, 25389.0, 25924.0, 24588.0, 22984.0, 20846.0, 18975.0, 17101.0, 16303.0]
+			  }, {
+				"conceptoguia": "Pronóstico de Consumo 2018  (m3)",
+				"conceptoguia_id": 4,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 14,
+				"valores": [14839.0, 16977.0, 18747.0, 17845.0, 22515.0, 23458.0, 27242.0, 27489.0, 23059.0, 21780.0, 19074.0, 21174.0]
+			  }, {
+				"conceptoguia": "Requerimiento 2018 (m3)",
+				"conceptoguia_id": 5,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 15,
+				"valores": [17104.0, 19282.0, 20617.0, 20517.0, 24119.0, 23992.0, 25906.0, 25885.0, 20921.0, 19909.0, 17204.0, 20372.0]
+			  }],
+			"empresa_id": "EI",
+			"fechaimportacion": "2018-08-08T11:59:36.09-05:00",
+			"packcurvaguia_id": 2
+		  },
+		  {
+			"año": 2018,
+			"centralgeneradora_id": 1,
+			"curvaguia_id": 2,
+			"curvaguiadetalle_list": [{
+				"conceptoguia": "Porcentaje Recomendado Curva Guía",
+				"conceptoguia_id": 1,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 11,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario deseado (%)",
+				"conceptoguia_id": 2,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 12,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario 2018 (m3)",
+				"conceptoguia_id": 3,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 13,
+				"valores": [16873.0, 19242.0, 21113.0, 23786.0, 25389.0, 25924.0, 24588.0, 22984.0, 20846.0, 18975.0, 17101.0, 16303.0]
+			  }, {
+				"conceptoguia": "Pronóstico de Consumo 2018  (m3)",
+				"conceptoguia_id": 4,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 14,
+				"valores": [14839.0, 16977.0, 18747.0, 17845.0, 22515.0, 23458.0, 27242.0, 27489.0, 23059.0, 21780.0, 19074.0, 21174.0]
+			  }, {
+				"conceptoguia": "Requerimiento 2018 (m3)",
+				"conceptoguia_id": 5,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 15,
+				"valores": [17104.0, 19282.0, 20617.0, 20517.0, 24119.0, 23992.0, 25906.0, 25885.0, 20921.0, 19909.0, 17204.0, 20372.0]
+			  }],
+			"empresa_id": "EIII",
+			"fechaimportacion": "2018-08-08T11:59:36.09-05:00",
+			"packcurvaguia_id": 3
+		  },
+		  {
+			"año": 2018,
+			"centralgeneradora_id": 1,
+			"curvaguia_id": 4,
+			"curvaguiadetalle_list": [{
+				"conceptoguia": "Porcentaje Recomendado Curva Guía",
+				"conceptoguia_id": 1,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 11,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario deseado (%)",
+				"conceptoguia_id": 2,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 12,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario 2018 (m3)",
+				"conceptoguia_id": 3,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 13,
+				"valores": [16873.0, 19242.0, 21113.0, 23786.0, 25389.0, 25924.0, 24588.0, 22984.0, 20846.0, 18975.0, 17101.0, 16303.0]
+			  }, {
+				"conceptoguia": "Pronóstico de Consumo 2018  (m3)",
+				"conceptoguia_id": 4,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 14,
+				"valores": [14839.0, 16977.0, 18747.0, 17845.0, 22515.0, 23458.0, 27242.0, 27489.0, 23059.0, 21780.0, 19074.0, 21174.0]
+			  }, {
+				"conceptoguia": "Requerimiento 2018 (m3)",
+				"conceptoguia_id": 5,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 15,
+				"valores": [17104.0, 19282.0, 20617.0, 20517.0, 24119.0, 23992.0, 25906.0, 25885.0, 20921.0, 19909.0, 17204.0, 20372.0]
+			  }],
+			"empresa_id": "EII",
+			"fechaimportacion": "2018-08-08T11:59:36.09-05:00",
+			"packcurvaguia_id": 4
+		  },
+		  {
+			"año": 2018,
+			"centralgeneradora_id": 1,
+			"curvaguia_id": 5,
+			"curvaguiadetalle_list": [{
+				"conceptoguia": "Porcentaje Recomendado Curva Guía",
+				"conceptoguia_id": 1,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 11,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario deseado (%)",
+				"conceptoguia_id": 2,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 12,
+				"valores": [63.0, 72.0, 79.0, 89.0, 95.0, 97.0, 92.0, 86.0, 78.0, 71.0, 64.0, 61.0]
+			  }, {
+				"conceptoguia": "Inventario 2018 (m3)",
+				"conceptoguia_id": 3,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 13,
+				"valores": [16873.0, 19242.0, 21113.0, 23786.0, 25389.0, 25924.0, 24588.0, 22984.0, 20846.0, 18975.0, 17101.0, 16303.0]
+			  }, {
+				"conceptoguia": "Pronóstico de Consumo 2018  (m3)",
+				"conceptoguia_id": 4,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 14,
+				"valores": [14839.0, 16977.0, 18747.0, 17845.0, 22515.0, 23458.0, 27242.0, 27489.0, 23059.0, 21780.0, 19074.0, 21174.0]
+			  }, {
+				"conceptoguia": "Requerimiento 2018 (m3)",
+				"conceptoguia_id": 5,
+				"curvaguia_id": 1,
+				"curvaguiadetalle_id": 15,
+				"valores": [17104.0, 19282.0, 20617.0, 20517.0, 24119.0, 23992.0, 25906.0, 25885.0, 20921.0, 19909.0, 17204.0, 20372.0]
+			  }],
+			"empresa_id": "EI",
+			"fechaimportacion": "2018-08-08T11:59:36.09-05:00",
+			"packcurvaguia_id": 5
+		  }
 	]
 }
