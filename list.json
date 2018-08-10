@@ -1,7 +1,7 @@
 {
 	"listversions":[
 		{
-		    "año": 2018,
+		    "anio": 2018,
 		    "version": 1,
 		    "eps":[
 		    	{
@@ -15,7 +15,7 @@
 			]
 		},
 		{
-		    "año": 2018,
+		    "anio": 2018,
 		    "version": 2,
 		    "eps":[
 		    	{
@@ -45,7 +45,7 @@
 			]
 		},
 		{
-		    "año": 2018,
+		    "anio": 2018,
 		    "version": 3,
 		    "eps":[
 		    	{
@@ -67,7 +67,7 @@
 			]
 		},
 		{
-		    "año": 2018,
+		    "anio": 2018,
 		    "version": 4,
 		    "eps":[
 		    	{
@@ -89,7 +89,7 @@
 			]
 		},
 		{
-		    "año": 2017,
+		    "anio": 2017,
 		    "version": 1,
 		    "eps":[
 		    	{
@@ -103,7 +103,7 @@
 			]
 		},
 		{
-		    "año": 2017,
+		    "anio": 2017,
 		    "version": 2,
 		    "eps":[
 		    	{
@@ -133,7 +133,7 @@
 			]
 		},
 		{
-		    "año": 2017,
+		    "anio": 2017,
 		    "version": 3,
 		    "eps":[
 		    	{
@@ -146,121 +146,132 @@
 	],
 	"versionamiento":[
         {
-            "año": 2017,
+            "anio": 2017,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "CREADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2017-08-08",
             "packcurvaguia_id": 1,
             "subversion": 0,
             "usuario": "G96AA",
             "version": 1
         },
         {
-            "año": 2017,
+            "anio": 2017,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "CREADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2017-06-08",
             "packcurvaguia_id": 1,
             "subversion": 0,
             "usuario": "G96AS",
             "version": 2
         },
         {
-            "año": 2017,
+            "anio": 2017,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "LIBERADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2017-08-08",
             "packcurvaguia_id": 1,
             "subversion": 0,
             "usuario": "G96AA",
             "version": 3
         },
         {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "CREADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-01-08",
             "packcurvaguia_id": 1,
             "subversion": 0,
             "usuario": "G96AS",
             "version": 1
         },
         {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "CREADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-02-08",
             "packcurvaguia_id": 2,
             "subversion": 0,
             "usuario": "G96AA",
             "version": 2
         },
         {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "LIBERADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-03-08",
             "packcurvaguia_id": 3,
             "subversion": 0,
             "usuario": "G90AW",
             "version": 3
         },
           {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "PUBLICADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-04-08",
             "packcurvaguia_id": 4,
             "subversion": 0,
             "usuario": "G91ED",
             "version": 4
         },
         {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "PUBLICADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-05-08",
             "packcurvaguia_id": 5,
             "subversion": 0,
             "usuario": "G96BB",
             "version": 5
         },
         {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "RECHAZADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-06-08",
             "packcurvaguia_id": 6,
             "subversion": 0,
             "usuario": "G96AA",
             "version": 6
         },
         {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "CREADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-07-08",
             "packcurvaguia_id": 7,
             "subversion": 0,
             "usuario": "G96AS",
             "version": 7
         },
           {
-            "año": 2018,
+            "anio": 2018,
             "comentario": "No comentario",
             "empresa_id": 0,
             "estatus": "LIBERADA",
-            "fechaguia": "2018-08-08T11:28:14.23-05:00",
+			"fechaguia": "2018-08-08",
+			"fechaguiaupdate": "2018-08-08",
             "packcurvaguia_id": 8,
             "subversion": 0,
             "usuario": "G96AS",
@@ -269,7 +280,7 @@
 	],
 	"curvaguia": [ 
 		{
-			"año": 2017,
+			"anio": 2017,
 			"centralgeneradora_id": 1,
 			"curvaguia_id": 1,
 			"curvaguiadetalle_list": [{
@@ -308,7 +319,7 @@
 			"packcurvaguia_id": 1
 		  },
 		  {
-			"año": 2018,
+			"anio": 2018,
 			"centralgeneradora_id": 1,
 			"curvaguia_id": 1,
 			"curvaguiadetalle_list": [{
@@ -347,7 +358,7 @@
 			"packcurvaguia_id": 2
 		  },
 		  {
-			"año": 2018,
+			"anio": 2018,
 			"centralgeneradora_id": 1,
 			"curvaguia_id": 2,
 			"curvaguiadetalle_list": [{
@@ -386,7 +397,7 @@
 			"packcurvaguia_id": 3
 		  },
 		  {
-			"año": 2018,
+			"anio": 2018,
 			"centralgeneradora_id": 1,
 			"curvaguia_id": 4,
 			"curvaguiadetalle_list": [{
@@ -425,7 +436,7 @@
 			"packcurvaguia_id": 4
 		  },
 		  {
-			"año": 2018,
+			"anio": 2018,
 			"centralgeneradora_id": 1,
 			"curvaguia_id": 5,
 			"curvaguiadetalle_list": [{
