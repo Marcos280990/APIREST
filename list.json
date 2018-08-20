@@ -5,11 +5,11 @@
 		    "version": 1,
 		    "eps":[
 		    	{
-		    		"clave": "EI",
+		    		"empresa_id": "1",
 		    		"nombre": "EPS I"
 		    	},
 		    	{
-		    		"clave": "EI",
+		    		"empresa_id": "2",
 		    		"nombre": "EPS II"
 		    	}
 			]
@@ -19,27 +19,27 @@
 		    "version": 2,
 		    "eps":[
 		    	{
-		    		"clave": "EI",
+		    		"empresa_id": "2",
 		    		"nombre": "EPS I"
 		    	},
 		    	{
-		    		"clave": "EII",
+		    		"empresa_id": "2",
 		    		"nombre": "EPS II"
 		    	},
 		    	{
-		    		"clave": "EIII",
+		    		"empresa_id": "3",
 		    		"nombre": "EPS III"
 		    	},
 		    	{
-		    		"clave": "EIV",
+		    		"empresa_id": "4",
 		    		"nombre": "EPS IV"
 		    	},
 		    	{
-		    		"clave": "EV",
+		    		"empresa_id": "5",
 		    		"nombre": "EPS V"
 		    	},
 		    	{
-		    		"clave": "EVI",
+		    		"cempresa_idlave": "6",
 		    		"nombre": "EPS VI"
 		    	}
 			]
@@ -49,19 +49,19 @@
 		    "version": 3,
 		    "eps":[
 		    	{
-		    		"clave": "EI",
+		    		"empresa_id": "1",
 		    		"nombre": "EPS I"
 		    	},
 		    	{
-		    		"clave": "EIV",
+		    		"empresa_id": "4",
 		    		"nombre": "EPS IV"
 		    	},
 		    	{
-		    		"clave": "EV",
+		    		"empresa_id": "5",
 		    		"nombre": "EPS V"
 		    	},
 		    	{
-		    		"clave": "EVI",
+		    		"empresa_id": "6",
 		    		"nombre": "EPS VI"
 		    	}
 			]
@@ -71,19 +71,19 @@
 		    "version": 4,
 		    "eps":[
 		    	{
-		    		"clave": "EI",
+		    		"empresa_id": "1",
 		    		"nombre": "EPS I"
 		    	},
 		    	{
-		    		"clave": "EIV",
+		    		"empresa_id": "4",
 		    		"nombre": "EPS IV"
 		    	},
 		    	{
-		    		"clave": "EV",
+		    		"empresa_id": "5",
 		    		"nombre": "EPS V"
 		    	},
 		    	{
-		    		"clave": "EVI",
+		    		"empresa_id": "6",
 		    		"nombre": "EPS VI"
 		    	}
 			]
@@ -93,11 +93,11 @@
 		    "version": 5,
 		    "eps":[
 		    	{
-		    		"clave": "EVI",
+		    		"empresa_id": "6",
 		    		"nombre": "EPS VI"
 		    	},
 		    	{
-		    		"clave": "EIV",
+		    		"empresa_id": "4",
 		    		"nombre": "EPS IV"
 		    	}
 			]
@@ -107,27 +107,27 @@
 		    "version": 6,
 		    "eps":[
 		    	{
-		    		"clave": "EI",
+		    		"empresa_id": "1",
 		    		"nombre": "EPS I"
 		    	},
 		    	{
-		    		"clave": "EII",
+		    		"empresa_id": "2",
 		    		"nombre": "EPS II"
 		    	},
 		    	{
-		    		"clave": "EIII",
+		    		"empresa_id": "3",
 		    		"nombre": "EPS III"
 		    	},
 		    	{
-		    		"clave": "EIV",
+		    		"empresa_id": "4",
 		    		"nombre": "EPS IV"
 		    	},
 		    	{
-		    		"clave": "EV",
+		    		"empresa_id": "5",
 		    		"nombre": "EPS V"
 		    	},
 		    	{
-		    		"clave": "EVI",
+		    		"empresa_id": "6",
 		    		"nombre": "EPS VI"
 		    	}
 			]
@@ -137,7 +137,7 @@
 		    "version": 7,
 		    "eps":[
 		    	{
-		    		"clave": "EVI",
+		    		"empresa_id": "6",
 		    		"nombre": "EPS VI"
 		    	}
 			]
