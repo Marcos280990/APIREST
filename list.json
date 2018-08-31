@@ -399,5 +399,61 @@
 			"fechaimportacion": "2018-08-08T11:59:36.09-05:00",
 			"packcurvaguia_id": 1
 	}
+	],
+	"energetico":[
+	{
+		"energetico_id": 1,
+		"generico_id": "CBO",
+		"energetico": "Combustoleo",
+		"unidadmedida_id": "m3",
+		"clavematerial": 0000009871,
+		"estatus": "C"
+	},
+	{
+		"energetico_id": 2,
+		"generico_id": "CBO",
+		"energetico": "Combustoleo",
+		"unidadmedida_id": "m3",
+		"clavematerial": 000006789,
+		"estatus": "C"
+	},
+	{
+		"energetico_id": 3,
+		"generico_id": "CBO",
+		"energetico": "Combustoleo",
+		"unidadmedida_id": "m3",
+		"clavematerial": 000004021,
+		"estatus": "C"
+	},
+	{
+		"energetico_id": 4,
+		"generico_id": "CBO",
+		"energetico": "Combustoleo",
+		"unidadmedida_id": "m3",
+		"clavematerial": 0000032233,
+		"estatus": "C"
+	},{
+		"energetico_id": 5,
+		"generico_id": "CBO",
+		"energetico": "Combustoleo",
+		"unidadmedida_id": "m3",
+		"clavematerial": 000009988,
+		"estatus": "C"
+	},{
+		"energetico_id": 6,
+		"generico_id": "CBO",
+		"energetico": "Combustoleo",
+		"unidadmedida_id": "m3",
+		"clavematerial": 000007654,
+		"estatus": "C"
+	},{
+		"energetico_id": 7,
+		"generico_id": "CBO",
+		"energetico": "Combustoleo",
+		"unidadmedida_id": "m3",
+		"clavematerial": 000004323,
+		"estatus": "C"
+	}
+
 	]
 }
