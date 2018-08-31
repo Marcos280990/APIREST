@@ -406,7 +406,7 @@
 		"generico_id": "CBO",
 		"energetico": "Combustoleo",
 		"unidadmedida_id": "m3",
-		"clavematerial": 0000009871,
+		"clavematerial": 9871,
 		"estatus": "C"
 	},
 	{
@@ -414,7 +414,7 @@
 		"generico_id": "CBO",
 		"energetico": "Combustoleo",
 		"unidadmedida_id": "m3",
-		"clavematerial": 000006789,
+		"clavematerial": 6789,
 		"estatus": "C"
 	},
 	{
@@ -422,7 +422,7 @@
 		"generico_id": "CBO",
 		"energetico": "Combustoleo",
 		"unidadmedida_id": "m3",
-		"clavematerial": 000004021,
+		"clavematerial": 4021,
 		"estatus": "C"
 	},
 	{
@@ -430,28 +430,28 @@
 		"generico_id": "CBO",
 		"energetico": "Combustoleo",
 		"unidadmedida_id": "m3",
-		"clavematerial": 0000032233,
+		"clavematerial": 32233,
 		"estatus": "C"
 	},{
 		"energetico_id": 5,
 		"generico_id": "CBO",
 		"energetico": "Combustoleo",
 		"unidadmedida_id": "m3",
-		"clavematerial": 000009988,
+		"clavematerial": 9988,
 		"estatus": "C"
 	},{
 		"energetico_id": 6,
 		"generico_id": "CBO",
 		"energetico": "Combustoleo",
 		"unidadmedida_id": "m3",
-		"clavematerial": 000007654,
+		"clavematerial": 7654,
 		"estatus": "C"
 	},{
 		"energetico_id": 7,
 		"generico_id": "CBO",
 		"energetico": "Combustoleo",
 		"unidadmedida_id": "m3",
-		"clavematerial": 000004323,
+		"clavematerial": 4323,
 		"estatus": "C"
 	}
 
