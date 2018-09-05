@@ -455,5 +455,355 @@
 		"estatus": "C"
 	}
 
-	]
+	],
+	"roles":[
+	{
+        "estatus": "A",
+        "rol": "Operador MEM SNnR",
+        "rol_id": 6,
+        "rolconstante": "OPMEPS"
+    }],
+    "packs":
+    [
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "PUBLICADA",
+        "fechaguia": "2018-08-21T11:28:35.49-05:00",
+        "fechaguiaupdate": "2018-08-28T14:58:44.325-05:00",
+        "packcurvaguia_id": 1,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 1
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-21T11:30:34.91-05:00",
+        "fechaguiaupdate": "2018-08-28T15:00:04.29-05:00",
+        "packcurvaguia_id": 2,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 2
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-21T11:32:00.055-05:00",
+        "fechaguiaupdate": "2018-08-30T15:24:10.166-05:00",
+        "packcurvaguia_id": 3,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 3
+    },
+    {
+        "anio": 2017,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-21T11:47:44.381-05:00",
+        "fechaguiaupdate": "2018-08-30T15:16:04.109-05:00",
+        "packcurvaguia_id": 4,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 3
+    },
+    {
+        "anio": 2017,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-21T11:48:39.716-05:00",
+        "fechaguiaupdate": "2018-08-30T15:15:50.812-05:00",
+        "packcurvaguia_id": 5,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 2
+    },
+    {
+        "anio": 2017,
+        "comentario": "_",
+        "estatus": "PUBLICADA",
+        "fechaguia": "2018-08-21T11:49:06.787-05:00",
+        "fechaguiaupdate": "2018-08-29T13:00:01.106-05:00",
+        "packcurvaguia_id": 6,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 1
+    },
+    {
+        "anio": 2017,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-21T11:49:44.66-05:00",
+        "fechaguiaupdate": "2018-08-23T08:02:33.962-05:00",
+        "packcurvaguia_id": 7,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 4
+    },
+    {
+        "anio": 2018,
+        "comentario": "",
+        "estatus": "LIBERADA",
+        "fechaguia": "2018-08-22T15:45:17.083-05:00",
+        "fechaguiaupdate": "2018-08-31T13:47:46.099-05:00",
+        "packcurvaguia_id": 9,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 4
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-24T07:51:59.206-05:00",
+        "fechaguiaupdate": "2018-08-24T07:51:59.206-05:00",
+        "packcurvaguia_id": 12,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 5
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-24T07:52:41.647-05:00",
+        "fechaguiaupdate": "2018-08-24T07:52:41.647-05:00",
+        "packcurvaguia_id": 13,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 6
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "LIBERADA",
+        "fechaguia": "2018-08-24T12:40:59.157-05:00",
+        "fechaguiaupdate": "2018-08-27T08:57:53.165-05:00",
+        "packcurvaguia_id": 14,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 7
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "CREADA",
+        "fechaguia": "2018-08-27T09:57:07.078-05:00",
+        "fechaguiaupdate": "2018-08-27T09:57:07.078-05:00",
+        "packcurvaguia_id": 15,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 8
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "CREADA",
+        "fechaguia": "2018-08-27T10:06:45.38-05:00",
+        "fechaguiaupdate": "2018-08-27T10:06:45.38-05:00",
+        "packcurvaguia_id": 16,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 9
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "CREADA",
+        "fechaguia": "2018-08-27T13:16:53.073-05:00",
+        "fechaguiaupdate": "2018-08-27T13:16:53.073-05:00",
+        "packcurvaguia_id": 17,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 10
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "CREADA",
+        "fechaguia": "2018-08-27T13:21:07.881-05:00",
+        "fechaguiaupdate": "2018-08-28T15:03:10.827-05:00",
+        "packcurvaguia_id": 18,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "LIBERADA",
+        "fechaguia": "2018-08-27T13:40:54.707-05:00",
+        "fechaguiaupdate": "2018-08-29T13:00:50.293-05:00",
+        "packcurvaguia_id": 19,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "LIBERADA",
+        "fechaguia": "2018-08-28T10:19:13.808-05:00",
+        "fechaguiaupdate": "2018-08-28T15:23:38.645-05:00",
+        "packcurvaguia_id": 20,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "LIBERADA",
+        "fechaguia": "2018-08-28T10:42:19.137-05:00",
+        "fechaguiaupdate": "2018-08-28T15:20:31.417-05:00",
+        "packcurvaguia_id": 21,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "PUBLICADA",
+        "fechaguia": "2018-08-28T11:05:36.8-05:00",
+        "fechaguiaupdate": "2018-08-30T11:37:21.72-05:00",
+        "packcurvaguia_id": 22,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-28T11:06:26.766-05:00",
+        "fechaguiaupdate": "2018-08-29T13:04:12.71-05:00",
+        "packcurvaguia_id": 23,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-28T14:59:14.149-05:00",
+        "fechaguiaupdate": "2018-08-28T15:02:57.841-05:00",
+        "packcurvaguia_id": 24,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "CREADA",
+        "fechaguia": "2018-08-28T15:01:01.596-05:00",
+        "fechaguiaupdate": "2018-08-29T09:32:17.385-05:00",
+        "packcurvaguia_id": 25,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 11
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "RECHAZADA",
+        "fechaguia": "2018-08-28T15:02:09.027-05:00",
+        "fechaguiaupdate": "2018-08-28T15:03:57.109-05:00",
+        "packcurvaguia_id": 26,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 0
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "CREADA",
+        "fechaguia": "2018-08-30T13:02:23.003-05:00",
+        "fechaguiaupdate": "2018-08-30T13:02:23.003-05:00",
+        "packcurvaguia_id": 28,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 0,
+        "version": 12
+    },
+    {
+        "anio": 2018,
+        "comentario": "_",
+        "estatus": "CREADA",
+        "fechaguia": "2018-08-30T13:11:22.966-05:00",
+        "fechaguiaupdate": "2018-08-30T13:11:22.966-05:00",
+        "packcurvaguia_id": 29,
+        "subversion": 0,
+        "tipopack": "C",
+        "usuario_id": 9,
+        "version": 13
+    }
+],
+"anio": [
+    {
+        "anio": 2017,
+        "version": 1
+    },
+    {
+        "anio": 2017,
+        "version": 2
+    },
+    {
+        "anio": 2017,
+        "version": 3
+    },
+    {
+        "anio": 2017,
+        "version": 4
+    },
+    {
+        "anio": 2017,
+        "version": 5
+    },
+    {
+        "anio": 2017,
+        "version": 6
+    },
+    {
+        "anio": 2018,
+        "version": 1
+    },
+    {
+        "anio": 2018,
+        "version": 2
+    },
+    {
+        "anio": 2018,
+        "version": 3
+    }
+],
+"centralgeneradora_list": [
+	{"centralgeneradora_list":["05SYC","07BCSPUP"],"empresa_id":4,"filename":"Curvas GuÃ­a CombustÃ³leo EPS IV (05 Julio 2018).xlsx","timestamp":"2018-09-05T10:11:14.857-05:00"}]
 }
